@@ -43,7 +43,7 @@ All decks are hosted in a single Google Drive folder: **[Browse the full collect
 
 ## 📁 Full index
 
-The complete searchable index of all 754 decks (company, year, round) lives in [`deck_index.csv`](https://drive.google.com/file/d/1aZj8xqTKGTSSy0PKC4wBR4Egi5XQ8Dsp/view).
+The complete searchable index of all 754 decks (company, year, round) lives in [`deck_index.csv`](https://github.com/midovislam/awesome-pitch-decks/blob/main/deck_index.csv).
 
 **Collection stats:**
 
