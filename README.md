@@ -52,6 +52,13 @@ The complete searchable index of all 754 decks (company, year, round) lives in [
 - Stages: Pre-Seed → Series E
 - Naming convention: `Company - Year - Round.pdf`
 
+💬 Author's Note
+This repository is curated by the team at 2pr.io - an AI ghostwriter designed to help founders and professionals scale their presence on LinkedIn.
+
+As an ex-VC turned bootstrapped founder, I have sat on both sides of the table. I know firsthand just how critical a pitch deck is to a startup's survival and growth. We built this library to make those fundraising insights accessible to everyone, and we hope it helps you craft a compelling narrative for your own venture.
+
+If you find this resource valuable, feel free to give the repo a ⭐ or check out our tool to help tell your story on social media!
+
 ## 🤝 Contributing
 
 Found a public deck that's missing? Open an issue or PR with a link to the source.
